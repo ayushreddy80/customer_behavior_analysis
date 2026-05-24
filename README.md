@@ -27,6 +27,7 @@ Data visualization
 Gamma
 PPT/report presentation
 Project Steps
+
 1. Data Loading
 Imported dataset using Python
 Connected database using SQL
@@ -50,6 +51,7 @@ Customer insights
 Regional performance
 Monthly/Yearly trends
 KPI calculations
+
 5. Power BI Dashboard
 
 Created interactive dashboards including:
@@ -60,6 +62,7 @@ Regional Analysis
 KPI Cards
 Trend Charts
 Filters and Slicers
+
 6. Reporting
 Summarized key business insights
 Created presentation/report using Gamma
@@ -97,7 +100,4 @@ Add machine learning predictions
 Automate data refresh
 Deploy dashboard online
 Add more advanced KPI metrics
-Author
 
-Ayush Reddy
-Data Analytics Project Portfolio
